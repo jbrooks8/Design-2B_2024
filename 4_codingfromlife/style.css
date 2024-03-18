@@ -1,0 +1,75 @@
+body {
+	background: #cccccc;
+}
+
+/* do NOT modify the canvas */
+.canvas {
+	width: 1000px;
+	height: 600px;
+	margin: 100px auto;
+	background: rgb(164, 231, 255);
+	position: relative;
+}
+
+/* modify the assets below */
+
+.square {
+	width: 10px;
+	height: 50px;
+	background: rgb(255, 255, 255);
+	top: 320px;
+	left: 380px;
+	position: absolute;
+}
+
+square2 {
+	width: 10px;
+	height: 50px;
+	background: rgb(255, 255, 255);
+	top: 200px;
+	left: 430px;
+	position: absolute;
+}
+
+.circle {
+	width: 1000px;
+	height: 100px;
+	background: rgb(228, 210, 192);
+	border-radius: 200px;
+	bottom: 0px;
+	left: 0px;
+	position: absolute;
+}
+
+#square2 {
+	background: rgb(255, 255, 255);
+	width: 10px;
+	height: 300px;	
+}
+
+.magenta {
+	position: relative;
+	width: 80vw;
+}
+
+.triangle {
+	width: 200;
+	height: 30;
+	border-left: 100px solid transparent;
+	border-right: 100px solid transparent;
+	border-bottom: 200px solid rgb(255, 34, 0);
+	position: absolute;
+	top: 120px;
+	left: 290px;
+
+}
+
+.circle2 {
+	width: 100px;
+	height: 100px;
+	background: rgb(255, 251, 0);
+	border-radius: 200px;
+	bottom: 400px;
+	left: 800px;
+	position: absolute;
+}

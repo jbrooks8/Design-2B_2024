@@ -1,61 +1,77 @@
 body{
-    background-color: darkorange
+    background-color: rgb(28, 141, 38)
 }
 
 #lineOne{
-    font-family: 'Nanum', Gothic;
-    Font-size: 50px;
-}
+    .nanum-gothic-regular 
+        font-family: "Nanum Gothic", sans-serif;
+        font-weight: 1000;
+        font-style: normal;
+        font-size: 90px;
+
+ }
+
 
 #lineTwo{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 40px;
 }
 
 #lineThree{
-    font-family: '', serif;
+    font-family: 'Gelasio', serif;
     font-size: 90px;
 }
 #lineFour{
-    font-family: 'Anta', Regular;
-    Font-size: 10px;
+    .anta-regular 
+        font-family: "Anta", sans-serif;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 40px
 }
+      
 
 #lineFive{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 40px;
 }
 
 #lineSix{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 40px;
 }
 
 #lineSeven{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 25px;
 }
 
 #lineEight{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 30px;
+
+}
 
 #lineNine{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 40px;
 }
 
 #lineTen{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 40px;
 }
 
 #lineEleven{
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    Font-size: 25px;
 }
 
-#lineTwelve{
+#lineTwelve {
     font-family: 'Gelasio', serif;
-    Font-size: 10px;
+    font-size: 20px;
+}
+
+#lineThirteen {
+    font-family: 'Gelasio', serif;
+    font-size: 10px;
 }
