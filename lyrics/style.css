@@ -3,14 +3,59 @@ body{
 }
 
 #lineOne{
-    color:purple;
+    font-family: 'Nanum', Gothic;
+    Font-size: 50px;
 }
 
 #lineTwo{
-    font-size: 40px;
-}
-#lineThree{
     font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineThree{
+    font-family: '', serif;
     font-size: 90px;
-    background-color:aqua;
+}
+#lineFour{
+    font-family: 'Anta', Regular;
+    Font-size: 10px;
+}
+
+#lineFive{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineSix{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineSeven{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineEight{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+
+#lineNine{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineTen{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineEleven{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
+}
+
+#lineTwelve{
+    font-family: 'Gelasio', serif;
+    Font-size: 10px;
 }
