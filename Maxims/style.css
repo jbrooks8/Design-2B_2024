@@ -1,0 +1,12 @@
+body{
+    background-color: rgb(28, 141, 38)
+}
+
+#lineOne{
+    .nanum-gothic-regular 
+        font-family: "Nanum Gothic", sans-serif;
+        font-weight: 1000;
+        font-style: normal;
+        font-size: 1000px;
+
+}
