@@ -8,3 +8,15 @@ div {
     animation: mymove 5s infinite 
     
  }
+
+ div2 {}
+
+  position: absolute;
+  top:180px;
+  left:30px;
+  width:300px;
+  height:150px;
+  background-color: coral;
+  border: 1px solid black;
+
+ }
