@@ -12,3 +12,10 @@ div {
 .heavy {
   opacity: 0.9; /* See the text very clearly over the background */
 }
+
+fadeInUp {
+    opacity: 0;
+    animation-name: fadeInUp;
+    -webkit-animation: fadeInUp;
+
+]
