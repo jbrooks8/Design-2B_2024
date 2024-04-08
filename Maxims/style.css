@@ -1,6 +1,7 @@
 div {
-    background: rgb(10 20 50 / 40%);
-
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 130%;
   }
   .light {
     opacity: 0.2; /* Barely see the text over the background */
