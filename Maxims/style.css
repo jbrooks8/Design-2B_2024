@@ -1,21 +1,14 @@
-body{
-    background-color: rgb(28, 141, 38)
-}
-
-#lineOne{
-    .nanum-gothic-regular 
-        font-family: "Nanum Gothic", sans-serif;
-        font-weight: 50;
-        font-style: normal;
-        font-size: 400px;
-
- }
-
- #lineOne{
-    .nanum-gothic-regular 
-        font-family: "Nanum Gothic", sans-serif;
-        font-weight: 50;
-        font-style: normal;
-        font-size: 400px;
- 
- }
+div {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 130%;
+  }
+  .light {
+    opacity: 0.2; /* Barely see the text over the background */
+  }
+  .medium {
+    opacity: 0.5; /* See the text more clearly over the background */
+  }
+  .heavy {
+    opacity: 0.9; /* See the text very clearly over the background */
+  }
