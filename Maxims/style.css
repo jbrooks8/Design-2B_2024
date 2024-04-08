@@ -4,12 +4,7 @@ body{
 
 #lineOne{
     .nanum-gothic-regular 
-        font-family: "Nanum Gothic", sans-serif;
-        font-size: 1000px;
-        width: 30px;
-        height: 50px;
-        background: rgb(255, 255, 255);
-        top: 320px;
-        left: 380px;
-        position: absolute;
+    font-family: 'Gelasio', serif;
+    Font-size: 40px;
+
 }
