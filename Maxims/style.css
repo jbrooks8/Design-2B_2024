@@ -10,3 +10,11 @@ body{
         font-size: 400px;
 
  }
+
+ #lineOne{
+    .nanum-gothic-regular 
+        font-family: "Nanum Gothic", sans-serif;
+        font-weight: 50;
+        font-style: normal;
+        font-size: 400px;
+
