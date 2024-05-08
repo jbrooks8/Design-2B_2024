@@ -15,6 +15,10 @@ div {
     font-size: 90px;
  } */
 
- rotate-text {
-    transform: rotate(-90deg); 
+ @keyframes 
+ from {
+ }
+
+ to {
+    transform: rotate(360deg);
  }
