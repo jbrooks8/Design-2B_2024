@@ -3,7 +3,7 @@ body{
 }
 
 #lineOne{
-    .nanum-gothic-regular 
+     
         font-family: "Nanum Gothic", sans-serif;
         font-weight: 1000;
         font-style: normal;
@@ -22,8 +22,8 @@ body{
     font-size: 90px;
 }
 #lineFour{
-    .anta-regular 
-        font-family: "Anta", sans-serif;
+    
+        font-family: "Anta-regular", sans-serif;
         font-weight: 400;
         font-style: normal;
         font-size: 40px
