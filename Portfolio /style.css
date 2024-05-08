@@ -57,7 +57,7 @@ nav ul li a::after{
     content: '',
     width: 100%
     height: 3px;
-    background: #fff004f;
+    background-color: #fff004f;
     position: absolute;
     left: 0;
     bottom: -6px
