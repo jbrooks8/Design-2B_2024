@@ -1,10 +1,39 @@
-*{
+/* reset defeault margin and padding
+body, h1, h2, h3, p, ul {
     margin: 0;
     padding: 0;
-    font-family:'Courier New', Courier, monospace;
-    box-sizing: border-box;
 }
-body{
-    background: #080808
-    color(srgb-linear red green blue)
+
+/* Style Headdeer */
+header {
+    background-color: brown;
+    color: beige
+    text-a;ogn: center;
+    padding: 20px;
+}
+
+/* Style navigation */
+nav ul {
+    list-style-type: none;
+    background-color: 444;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Style section */
+section {
+    padding: 20px;
+    margin: 20 px;
+    background-color: black
+}
+
+/*Style footer */
+footer {
+    background-color: black;
+    color: aqua;
+    text-align: center
+    padding 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
