@@ -53,4 +53,12 @@ nav ul li a{
     text-decoration: none;
     font-size: 18px
     position: relative;
-
+}
+.header-text{
+    margin-top: 20%
+    font-size: 30px
+}
+.header-text h1{
+    font-size: large;
+    margain-top: 20px
+}
