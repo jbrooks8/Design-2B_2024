@@ -1,0 +1,20 @@
+div {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 130%;
+  }
+  
+    /* fadeInUp 
+      opacity: 0;
+      animation-name: fadeInUp;
+      -webkit-animation: fadeInUp;
+  }
+
+#lineOne{
+    font-family: 'Gelasio', serif;
+    font-size: 90px;
+ } */
+
+ rotate-text {
+    transform: rotate(-90deg); 
+ }
