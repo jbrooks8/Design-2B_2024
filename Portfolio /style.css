@@ -5,6 +5,6 @@
     box-sizing: border-box;
 }
 body{
-    background: #571c1c
-    color(srgb red green blue)
+    background: #080808
+    color(srgb-linear red green blue)
 }
