@@ -1,0 +1,53 @@
+div {
+    background-color: yellow;
+    font-weight: bold;
+    font-size: 130%;
+  }
+  
+    /* fadeInUp 
+      opacity: 0;
+      animation-name: fadeInUp;
+      -webkit-animation: fadeInUp;
+  }
+   
+  Line 1{ font-family: 'Gelasio', serif;
+      font-size: 300px;
+  }
+  Line 2{ font-family: 'Gelasio', serif;
+      font-size: 300px;
+  }
+  Line 3{ font-family: 'Gelasio', serif;
+      font-size: 300px;
+  }
+  Line 4{ font-family: 'Gelasio', serif;
+      font-size: 300px;
+  } */
+
+  @keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    50% {
+        opacity: 1;
+    }
+
+    100% {
+        opacity: 0;
+    }
+}
+
+.Light {
+    animation: fadeIn 4s forwards;
+}
+
+.medium {
+    animation: fadeIn 4s 4s forwards;
+    opacity: 0;
+}
+
+.heavy {
+    animation: fadeIn 4s 8s forwards;
+    opacity: 0;
+}
+  
