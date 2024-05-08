@@ -11,16 +11,16 @@ div {
 }
  
 Line 1{ font-family: 'Gelasio', serif;
-    font-size: 300px;
+    font-size: 1000px;
 }
 Line 2{ font-family: 'Gelasio', serif;
-    font-size: 300px;
+    font-size: 1000px;
 }
 Line 3{ font-family: 'Gelasio', serif;
-    font-size: 300px;
+    font-size: 1000px;
 }
 Line 4{ font-family: 'Gelasio', serif;
-    font-size: 300px;
+    font-size: 1000px;
 } */
 
 @keyframes fadeIn {
