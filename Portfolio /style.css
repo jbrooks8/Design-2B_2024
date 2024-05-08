@@ -38,8 +38,8 @@ footer {
     width: 100%;
 }
 body{
-    background-color: darkred;
-    color: darkred;
+    background-color: black;
+    color: black;
 }
 
 nav ul li{ 
@@ -49,7 +49,7 @@ nav ul li{
 }
 
 nav ul li a{
-    color: black;
+    color: floralwhite;
     text-decoration: none;
     font-size: 18px
 }
